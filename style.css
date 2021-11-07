@@ -57,6 +57,9 @@ position: relative;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
   }
+  .boxes {
+    background-color: rgb(226, 225, 225);
+  }
   .b-one> button{
     color:white;
     background-color: orange;
