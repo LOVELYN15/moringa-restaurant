@@ -17,13 +17,19 @@ div h3 {
 nav button{
   color: aliceblue;
   background-color:orange;
+  padding: 1px 2px 1px 2px;
 }
 
  .landmap{
    font-weight: 200;
-   font-size: x-large;
+   font-size: xx-large;
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-   
+   color: white;
+   text-align: justify;
+   position: absolute;
+   top: 40%;
+   left: 4%;
+  
  }
  .landmap button {
    padding: 5px 10px 5px 10px;
