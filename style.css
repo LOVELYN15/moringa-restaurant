@@ -51,5 +51,18 @@ position: relative;
   .mid1 {
     text-align: center;
     background-color: rgb(226, 225, 225);
-   
+     }
+  h6 {
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
   }
+  .b-one> button{
+    color:white;
+      }
+      .b-two> button{
+        color:white;
+          }
+          .b-three> button{
+            color:white;
+              }
