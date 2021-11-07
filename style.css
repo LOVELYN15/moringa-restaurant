@@ -1,0 +1,7 @@
+div h3 {
+  font-size: medium;
+}
+ nav{
+   display: flex;
+   justify-content: space-between;
+ }
