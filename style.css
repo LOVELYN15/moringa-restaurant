@@ -4,6 +4,7 @@ div h3 {
  nav{
    display: flex;
    justify-content: space-between;
+   
  }
  nav a {
    display: inline;
@@ -11,10 +12,19 @@ div h3 {
    padding: 0px 50px 0px 50px;
    font-size: 20px;
   background: transparent;
+  
  }
- .landmap {
+nav button{
+  padding: 0px 10px 0px 10px;
+}
+
+ .landmap{
    font-weight: 200;
    font-size: x-large;
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    
  }
+ .landmap button {
+   padding: 5px 10px 5px 10px;
+ }
+ 
