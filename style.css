@@ -59,10 +59,13 @@ position: relative;
   }
   .b-one> button{
     color:white;
+    background-color: orange;
       }
       .b-two> button{
         color:white;
+        background-color: orange;
           }
           .b-three> button{
             color:white;
+            background-color: orange;
               }
