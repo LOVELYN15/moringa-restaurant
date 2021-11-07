@@ -94,3 +94,11 @@ position: relative;
   padding-top: 5%;
   margin-bottom: 3%;
             }
+            .description {
+              color:white;
+             text-align: right;
+             position: relative;
+             top: 10%;
+             left: 2%;
+            
+            }          
