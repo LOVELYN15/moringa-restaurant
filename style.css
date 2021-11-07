@@ -19,10 +19,6 @@ nav button{
   background-color:orange;
   padding: 1px 2px 1px 2px;
 }
-.mid1 >h4{
-color: orange;
-}
-
  .landmap{
    font-weight: 200;
    font-size: xx-large;
@@ -45,3 +41,10 @@ background-repeat: no-repeat;
 background-size: cover;
 position: relative;
  }
+ .mid1 >h4{
+  color: orange;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .mid1 p{
+    font-style: italic;
+  }
