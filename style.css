@@ -100,5 +100,8 @@ position: relative;
              position: relative;
              top: 10%;
              left: 2%;
-            
-            }          
+             background-color: black;
+            }       
+            div>img {
+              float: left;
+            }
