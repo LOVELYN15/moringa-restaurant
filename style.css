@@ -35,7 +35,7 @@ nav button{
  }
  .navbar {
   background-image: url(images/image2.png);
-  height: 700px;
+  height: 500px;
   background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
@@ -105,3 +105,11 @@ position: relative;
             div>img {
               float: left;
             }
+   .booking {
+     background-image: url(images/image8.png);
+     height: 500px;
+     background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   position: relative;
+   }         
