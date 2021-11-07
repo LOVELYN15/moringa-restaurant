@@ -112,4 +112,6 @@ position: relative;
    background-repeat: no-repeat;
    background-size: cover;
    position: relative;
+   text-align: center;
+   justify-content: center;
    }         
