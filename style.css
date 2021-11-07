@@ -27,4 +27,11 @@ nav button{
  .landmap button {
    padding: 5px 10px 5px 10px;
  }
- 
+ .navbar {
+  background-image: url(images/image2.png);
+  height: 700px;
+  background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+ }
