@@ -5,3 +5,11 @@ div h3 {
    display: flex;
    justify-content: space-between;
  }
+ nav a {
+   display: inline;
+   justify-content: space-around;
+   padding: 0px 50px 0px 50px;
+   font-size: 20px;
+  background: transparent;
+ }
+ 
