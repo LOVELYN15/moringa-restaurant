@@ -19,6 +19,9 @@ nav button{
   background-color:orange;
   padding: 1px 2px 1px 2px;
 }
+.mid1 >h4{
+color: orange;
+}
 
  .landmap{
    font-weight: 200;
