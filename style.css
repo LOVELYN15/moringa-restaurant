@@ -72,3 +72,12 @@ position: relative;
             color:white;
             background-color: orange;
               }
+            .b-one > p{
+              font-style: italic;
+            }
+            .b-two > p{
+              font-style: italic;
+            }
+            .b-three > p{
+              font-style: italic;
+            }
